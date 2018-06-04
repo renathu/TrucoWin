@@ -65,6 +65,7 @@ namespace TrucoWin.Entidades
                 {
 
                 }
+
             }
 
             Cartear();
